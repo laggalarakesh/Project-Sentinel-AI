@@ -1,0 +1,5 @@
+{
+  "name": "Project Sentinel-AI Dashboard",
+  "description": "A dashboard for the Sentinel-AI framework, designed for predictive e-scooter fleet health monitoring. It visualizes real-time data, predicts impending failures, and simulates proactive owner engagement using Gemini.",
+  "requestFramePermissions": []
+}
